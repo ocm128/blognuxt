@@ -45,11 +45,13 @@ export default {
   */
   min-height: calc(100vh - 20vh);
   padding: 30px 30px 0 30px;
+
 }
 
 .footer{
 
   /* Sticky footer  */
+  margin-top: 90px;
   width: 100%;
   height: 100px;
   bottom: 0;
