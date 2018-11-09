@@ -1,0 +1,36 @@
+
+/* Pages transition */
+.trans{
+  transition: all 0.4s ease-in;
+}
+
+.trans .page-enter-active, .page-leave-active{
+  transition: opacity .5s;
+}
+
+.page-enter, .page-leave-active{
+  opacity: 0;
+}
+
+/* Navbar */
+.nav-item a.is-tab, a.nav-item.is-tab{
+  border-bottom: 1px solid transparent;
+}
+
+.nav-item a.is-tab, a.nav-item.is-tab:hover{
+  border-bottom: 1px solid #d04c3f;
+}
+
+a.nav-item.is-tab.is-active {
+    border-bottom: 3px solid #d04c3f;
+    color: #d04c3f;
+    padding-bottom: calc(.75rem - 3px);
+}
+
+footer a{
+  color: #d04c3f;
+}
+
+footer a:hover{
+  color: #7a7a7a;
+}
