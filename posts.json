@@ -1,11 +1,28 @@
 [
+
+    {
+        "id": 6,
+        "title": "Introducción a Nuxt",
+        "summary": "Primeros pasos para facilitar el desarrollo con Vue.js",
+        "content": "<p>Nuxt.js es un framework que nos permite crear aplicaciones universales utilizando Vue.js. Se enfoca en renderizar y compilar UI tanto del cliente como del servidor y determinar cuando corresponde realizar cada tipo de renderización.</p>",
+        "author": "Admin",
+        "published": "17:24 - 08/11/2018"
+    },
+    {
+        "id": 5,
+        "title": "Primeros pasos con Vue 2",
+        "summary": "Documentación oficial de Vue 2",
+        "content": "<p>Vue (pronunciado /vjuː/ en inglés, como view) es un framework progresivo para construir interfaces de usuario. A diferencia de otros frameworks monolíticos, Vue está diseñado desde el inicio para ser adoptado incrementalmente. La biblioteca principal se enfoca solo en la capa de la vista, y es muy simple de utilizar e integrar con otros proyectos o bibliotecas existentes. Por otro lado, Vue también es perfectamente capaz de soportar aplicaciones sofisticadas de una sola página (en inglés single-page-application o SPA) cuando se utiliza en combinación con herramientas modernas y librerías compatibles.</p>",
+        "author": "Admin",
+        "published": "17:24 - 08/11/2018"
+    },
     {
         "id": 4,
         "title": "Building universal JS apps with Nuxt.js",
         "summary": "Get introduced to Nuxt.js, and build great SSR Apps with Vue.js.",
         "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "author": "Jane Doe",
-        "published": "08:00 - 07/06/2017"
+        "author": "Admin",
+        "published": "11:00 - 07/11/2018"
     },
     {
         "id": 3,
@@ -13,7 +30,7 @@
         "summary": "See simple and rich server rendered JavaScript apps.",
         "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
         "author": "Jane Doe",
-        "published": "17:00 - 06/06/2017"
+        "published": "18:54 - 07/11/2018"
     },
     {
         "id": 2,
@@ -21,14 +38,14 @@
         "summary": "Learn about SSR in Vue.js, and where Nuxt.js can make it all faster.",
         "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
         "author": "Jane Doe",
-        "published": "13:00 - 06/06/2017"
+        "published": "16:08 - 07/11/2018"
     },
     {
         "id": 1,
         "title": "Introduction to SSR",
         "summary": "Learn about SSR in JavaScript and how it can be super cool.",
         "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "author": "John Doe",
-        "published": "11:00 - 06/06/2017"
+        "author": "Admin",
+        "published": "20:47 - 05/11/2018"
     }
 ]
