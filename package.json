@@ -1,4 +1,4 @@
-  {
+{
   "name": "blognuxt",
   "version": "1.0.0",
   "description": "Nuxt.js project",
@@ -13,6 +13,7 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
+    "firebase": "^5.5.8",
     "nuxt": "^2.0.0"
   },
   "devDependencies": {
